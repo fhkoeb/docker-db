@@ -1,4 +1,4 @@
-FROM centos:7.5.1804
+FROM centos:7
 
 MAINTAINER EXASOL "service@exasol.com"
 

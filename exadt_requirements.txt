@@ -1,3 +1,4 @@
 docker>=3.2.1
 ipaddr>=2.1.11
 configobj>=5.0.6
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
